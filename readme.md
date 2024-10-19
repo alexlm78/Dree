@@ -16,7 +16,7 @@ One cool thing about Dree is that you can decide how many levels of folders you 
 
 In addition to displaying the directory structure, Dree offers a powerful search feature within the directory tree. Users can search for specific files or folders within the entire directory structure. Furthermore, Dree allows users to manually adjust their search space by setting the depth level.
 
-![levels](https://github.com/user-attachments/assets/038696d0-40d5-4dab-b507-c9dab58b7b65)
+![search](https://github.com/user-attachments/assets/dbad70da-ce29-4849-b108-46018cc8f79c)
 
 The recommendation feature proves to be particularly helpful when users are unsure about the exact spelling or naming of a file or folder.
 
