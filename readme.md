@@ -12,15 +12,15 @@ Dree presents the folders in a tree-like format, with the main folder at the top
 
 One cool thing about Dree is that you can decide how many levels of folders you want to see at a time. For example, if you only want to see the main folder and its immediate subfolders, you can set the depth to 1. If you want to see more levels of folders, you can increase the depth accordingly. This allows you to focus on the specific parts of the folder structure that are most relevant to you.
 
-![image](https://github.com/ujjwall-R/Dree/assets/75781631/d75b5f2d-55f6-4f66-8c15-6dfbc2822780)
+![levels](https://github.com/user-attachments/assets/14f3f131-0dad-4811-be40-2e1487b2b80f)
 
 In addition to displaying the directory structure, Dree offers a powerful search feature within the directory tree. Users can search for specific files or folders within the entire directory structure. Furthermore, Dree allows users to manually adjust their search space by setting the depth level.
 
-![image](https://github.com/ujjwall-R/Dree/assets/75781631/7424fd22-072f-41f7-8d6c-290a93e3bd4b)
+![levels](https://github.com/user-attachments/assets/038696d0-40d5-4dab-b507-c9dab58b7b65)
 
 The recommendation feature proves to be particularly helpful when users are unsure about the exact spelling or naming of a file or folder.
 
-![image](https://github.com/ujjwall-R/Dree/assets/75781631/49bc8a09-c626-4cde-8fee-a93b4c06e734)
+![search2](https://github.com/user-attachments/assets/cfdffb7a-1237-486e-be28-51d46ced1c41)
 
 ## Disclaimer
 
@@ -85,9 +85,7 @@ dree 5 -f "file_name"
 
 Dree includes a `.dreeignore` file that enlists some commonly ignored files and directories. This can be overriden be the use of the `-a` flag.
 
-![image](https://github.com/Ruberald/Dree/assets/31573113/6437731d-c799-4c8e-b939-9e6ef8984d87)
-
-![image](https://github.com/Ruberald/Dree/assets/31573113/3e28ebdd-4311-4801-87aa-a08e2e8014d3)
+![dreeignore](https://github.com/user-attachments/assets/59047ae9-2ff4-4201-8069-5656db46a95b)
 
 As you can see, directories like `node_modules` and files like `.gitignore` are included when the `-a` flag is issued.
 
